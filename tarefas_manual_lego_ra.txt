@@ -1,0 +1,19 @@
+Requisitos Funcionais
+	- Detectar o passo atual do maual através do processamento de imagem com a câmera.
+	- Renderizar um modelo 3D do passo atual em cima do encontrado pela câmera através do processamento da imagem.
+	- Permitir ao usuário navegar entre o passo-a-passo do manual.
+	- Permitir ao usuário selecionar o Manual que deseja montar.
+	- Permitir ao usuáio rotacionar o modelo 3D do passo atual.
+Requisitos Não Funcionais
+	- Ser desenvolvido no Unity.
+	- Ser desenvolvido para a plataforma Android.
+	
+	
+Tarefas:
+	- Realizar escolha do manual. (José)
+	- Modelar passo-a-passo do manual em objetos 3D. (Bruno)
+	- Criar esqueleto do aplicativo. (Bruno e Gustavo)
+	- Implementar componente de câmera na aplicação. (Gustavo)
+	- Implementar processamento de imagem com a biblioteca OpenCV. (José e Diogo)
+	- Utilizar Realidade Aumentada para mostrar o passo-a-passo do manual no local em que o mesmo foi encontrado na câmera a partir do processamento de imagem. (Bruno)
+	- Compilar o projeto para Android. (Diogo)
